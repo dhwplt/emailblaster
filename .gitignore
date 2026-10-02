@@ -1,0 +1,14 @@
+# Virtual Environments
+venv/
+env/
+
+# Security / Secrets (NEVER UPLOAD TO GITHUB)
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data files (Don't upload private contact lists)
+*.xlsx
+*.csv
